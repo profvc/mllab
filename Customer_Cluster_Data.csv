@@ -1,0 +1,1001 @@
+Gender,Marital Status,Education,Employment Status,Housing,Age,Income,Credit Score,Debt-to-Income Ratio,Savings
+Male,Divorced,High School,Employed Part-time,Rent,53,56124,758,0.27,9979
+Male,Single,PhD,Self-employed,Rent,37,73026,567,0.49,4602
+Female,Widowed,Master's Degree,Unemployed,Own,42,34508,483,0.35,12793
+Male,Divorced,High School,Self-employed,Own,42,34606,577,0.38,8348
+Female,Widowed,PhD,Employed Full-time,Own,49,61277,666,0.33,5731
+Male,Widowed,High School,Employed Part-time,Rent,34,41490,561,0.33,11836
+Female,Widowed,Bachelor's Degree,Self-employed,Rent,56,47512,630,0.33,18886
+Non-binary,Divorced,Bachelor's Degree,Self-employed,Rent,33,31283,635,0.43,14243
+Non-binary,Single,Master's Degree,Employed Part-time,Rent,39,29663,650,0.47,7143
+Male,Single,Master's Degree,Unemployed,Mortgage,35,38505,484,0.5,17417
+Non-binary,Divorced,PhD,Employed Full-time,Rent,34,55682,630,0.33,12778
+Male,Married,High School,Employed Part-time,Rent,60,55391,801,0.36,6739
+Non-binary,Widowed,Master's Degree,Self-employed,Own,46,65861,694,0.45,10902
+Female,Single,High School,Self-employed,Own,62,58163,743,0.48,13860
+Female,Single,Master's Degree,Self-employed,Rent,35,29609,701,0.41,8127
+Non-binary,Married,PhD,Employed Part-time,Rent,37,42012,511,0.27,15267
+Non-binary,Single,Bachelor's Degree,Self-employed,Own,45,49833,686,0.58,17459
+Female,Widowed,PhD,Unemployed,Rent,42,35118,490,0.49,12566
+Male,Divorced,Bachelor's Degree,Employed Full-time,Mortgage,18,64165,497,0.39,574
+Female,Single,High School,Employed Full-time,Own,49,49892,713,0.5,15125
+Non-binary,Divorced,PhD,Unemployed,Own,38,48714,586,0.43,10749
+Male,Divorced,Bachelor's Degree,Unemployed,Rent,35,36403,552,0.52,9254
+Female,Divorced,PhD,Self-employed,Rent,21,56895,670,0.31,6064
+Male,Divorced,High School,Unemployed,Own,35,41050,713,0.58,12410
+Female,Married,Bachelor's Degree,Self-employed,Own,38,39209,571,0.49,18888
+Male,Widowed,Bachelor's Degree,Employed Part-time,Mortgage,37,52827,718,0.48,2881
+Male,Widowed,Bachelor's Degree,Self-employed,Own,34,28317,575,0.36,18388
+Male,Single,Master's Degree,Employed Full-time,Rent,46,44631,491,0.53,10467
+Male,Widowed,Master's Degree,Employed Part-time,Own,30,60491,439,0.37,6766
+Non-binary,Widowed,Master's Degree,Employed Part-time,Own,44,54683,588,0.25,20778
+Female,Widowed,Master's Degree,Employed Full-time,Own,26,49285,837,0.53,21005
+Female,Widowed,Bachelor's Degree,Self-employed,Own,24,54679,540,0.4,19390
+Non-binary,Widowed,Master's Degree,Employed Part-time,Rent,32,59577,850,0.37,3802
+Female,Widowed,Master's Degree,Self-employed,Own,51,67209,738,0.32,1238
+Female,Single,PhD,Unemployed,Own,60,41866,468,0.37,16938
+Non-binary,Divorced,PhD,Employed Full-time,Rent,40,49679,714,0.39,18453
+Non-binary,Single,Master's Degree,Unemployed,Mortgage,25,54549,673,0.48,14170
+Female,Married,Bachelor's Degree,Unemployed,Own,28,51247,524,0.55,6519
+Non-binary,Widowed,High School,Employed Full-time,Own,39,65479,687,0.3,11388
+Non-binary,Divorced,Bachelor's Degree,Employed Part-time,Mortgage,45,44538,820,0.37,14779
+Male,Single,Bachelor's Degree,Employed Full-time,Rent,24,48245,643,0.45,6618
+Male,Widowed,Master's Degree,Employed Part-time,Own,44,41506,597,0.43,11506
+Non-binary,Single,High School,Employed Part-time,Own,47,38987,778,0.41,6844
+Male,Single,PhD,Employed Part-time,Own,39,51544,605,0.56,10549
+Non-binary,Married,PhD,Employed Full-time,Mortgage,43,50543,617,0.4,13992
+Non-binary,Divorced,PhD,Unemployed,Rent,37,58580,726,0.29,15978
+Non-binary,Single,Master's Degree,Self-employed,Rent,35,39746,558,0.56,7192
+Female,Divorced,PhD,Employed Part-time,Own,38,39390,805,0.46,14764
+Male,Divorced,High School,Unemployed,Rent,41,40027,556,0.56,5754
+Male,Divorced,Master's Degree,Employed Full-time,Mortgage,41,50295,631,0.47,19031
+Male,Married,Bachelor's Degree,Self-employed,Own,42,76613,700,0.45,5811
+Male,Divorced,High School,Employed Part-time,Mortgage,28,56729,751,0.39,13552
+Male,Married,Bachelor's Degree,Self-employed,Mortgage,41,36076,871,0.52,2181
+Non-binary,Single,Master's Degree,Employed Part-time,Own,41,28976,624,0.3,5243
+Male,Divorced,PhD,Employed Part-time,Mortgage,50,43724,662,0.47,2516
+Female,Divorced,High School,Self-employed,Rent,46,65096,591,0.44,4913
+Non-binary,Divorced,High School,Employed Part-time,Mortgage,35,39745,682,0.37,10214
+Male,Married,Bachelor's Degree,Self-employed,Mortgage,54,38090,603,0.29,6768
+Male,Divorced,PhD,Unemployed,Rent,33,49902,577,0.32,8024
+Female,Divorced,Master's Degree,Unemployed,Rent,54,57396,611,0.42,9104
+Non-binary,Divorced,Bachelor's Degree,Employed Full-time,Rent,42,48001,540,0.38,8204
+Male,Divorced,Bachelor's Degree,Unemployed,Rent,42,36378,772,0.4,10314
+Female,Divorced,PhD,Employed Full-time,Mortgage,42,64246,598,0.47,3097
+Female,Divorced,PhD,Unemployed,Rent,53,37659,622,0.26,15253
+Male,Married,Bachelor's Degree,Self-employed,Mortgage,53,50773,633,0.26,1008
+Non-binary,Divorced,Master's Degree,Employed Part-time,Mortgage,24,66394,488,0.4,9874
+Male,Single,Bachelor's Degree,Self-employed,Mortgage,32,59148,477,0.46,3417
+Female,Widowed,Bachelor's Degree,Self-employed,Own,33,52676,469,0.33,9410
+Non-binary,Single,Master's Degree,Employed Full-time,Own,37,38851,575,0.51,13748
+Female,Single,High School,Employed Part-time,Own,40,53177,571,0.33,14929
+Female,Divorced,Master's Degree,Self-employed,Own,33,50201,469,0.37,6222
+Non-binary,Single,High School,Self-employed,Own,34,51265,596,0.31,21339
+Male,Single,PhD,Employed Part-time,Own,38,48731,820,0.51,11364
+Female,Divorced,High School,Employed Part-time,Own,28,20041,763,0.44,13011
+Male,Single,Master's Degree,Unemployed,Mortgage,29,51811,421,0.37,4604
+Female,Widowed,PhD,Self-employed,Mortgage,42,45984,652,0.34,5878
+Non-binary,Widowed,High School,Employed Full-time,Own,46,62196,842,0.39,18064
+Male,Married,Bachelor's Degree,Self-employed,Mortgage,36,48808,616,0.45,1833
+Male,Widowed,Bachelor's Degree,Self-employed,Mortgage,38,53386,564,0.36,8247
+Non-binary,Divorced,PhD,Employed Full-time,Own,45,32720,711,0.34,4190
+Female,Single,Bachelor's Degree,Employed Part-time,Mortgage,40,43420,518,0.35,11532
+Female,Widowed,PhD,Employed Full-time,Mortgage,29,45465,753,0.54,12360
+Male,Widowed,High School,Employed Full-time,Own,48,68169,641,0.33,9329
+Male,Single,Master's Degree,Employed Full-time,Own,30,38278,610,0.52,13300
+Female,Single,PhD,Employed Part-time,Own,31,53658,566,0.37,8430
+Non-binary,Divorced,Bachelor's Degree,Unemployed,Rent,45,56858,703,0.57,18267
+Female,Divorced,Bachelor's Degree,Employed Part-time,Rent,35,49208,625,0.51,19001
+Female,Divorced,High School,Unemployed,Rent,33,63508,533,0.55,16278
+Non-binary,Single,Master's Degree,Unemployed,Mortgage,38,45057,688,0.44,9463
+Male,Divorced,Bachelor's Degree,Unemployed,Mortgage,54,35227,578,0.53,13083
+Female,Divorced,PhD,Employed Full-time,Own,39,40625,615,0.4,5762
+Male,Single,PhD,Unemployed,Rent,27,54660,628,0.59,2802
+Male,Widowed,PhD,Unemployed,Rent,31,48725,519,0.41,18553
+Non-binary,Married,PhD,Employed Full-time,Mortgage,36,52719,648,0.38,5688
+Non-binary,Single,PhD,Employed Full-time,Mortgage,52,56732,554,0.48,14916
+Female,Single,Bachelor's Degree,Employed Full-time,Own,40,53030,534,0.5,8774
+Male,Married,Bachelor's Degree,Employed Part-time,Own,42,37508,520,0.3,13479
+Non-binary,Married,Master's Degree,Employed Part-time,Rent,45,52289,676,0.42,16226
+Non-binary,Single,High School,Employed Part-time,Own,51,48953,636,0.4,1706
+Male,Widowed,High School,Employed Part-time,Own,52,52230,673,0.44,4748
+Non-binary,Widowed,Bachelor's Degree,Employed Full-time,Rent,41,55259,476,0.34,6503
+Non-binary,Widowed,Bachelor's Degree,Self-employed,Mortgage,38,39409,606,0.43,10915
+Male,Widowed,PhD,Self-employed,Mortgage,31,59458,610,0.5,19915
+Non-binary,Married,Master's Degree,Self-employed,Own,46,41051,758,0.53,7063
+Female,Widowed,High School,Employed Part-time,Mortgage,28,68786,753,0.2,15043
+Non-binary,Married,Master's Degree,Employed Part-time,Mortgage,40,42363,764,0.42,12272
+Male,Single,PhD,Self-employed,Mortgage,34,56242,597,0.39,6670
+Female,Divorced,PhD,Employed Part-time,Rent,48,36507,672,0.52,10567
+Male,Married,Master's Degree,Employed Full-time,Rent,40,33958,839,0.48,10274
+Non-binary,Divorced,Bachelor's Degree,Employed Full-time,Own,35,55857,695,0.44,5340
+Male,Divorced,PhD,Employed Part-time,Rent,37,38842,555,0.29,20714
+Non-binary,Single,High School,Employed Part-time,Mortgage,52,58776,537,0.38,14767
+Non-binary,Married,High School,Employed Full-time,Mortgage,41,52914,732,0.39,1637
+Male,Divorced,PhD,Self-employed,Mortgage,40,56716,685,0.4,8639
+Male,Divorced,PhD,Unemployed,Mortgage,28,53373,645,0.41,5165
+Male,Married,Bachelor's Degree,Self-employed,Rent,39,46219,684,0.33,13374
+Female,Divorced,Master's Degree,Unemployed,Own,31,50852,671,0.43,9433
+Female,Married,Bachelor's Degree,Employed Part-time,Own,26,60148,565,0.37,20319
+Non-binary,Married,Master's Degree,Employed Part-time,Own,52,44557,522,0.22,8884
+Non-binary,Widowed,Bachelor's Degree,Unemployed,Own,38,38996,660,0.39,1568
+Non-binary,Divorced,PhD,Self-employed,Mortgage,34,40145,694,0.21,7058
+Non-binary,Widowed,Bachelor's Degree,Employed Part-time,Rent,52,46489,586,0.48,6453
+Non-binary,Single,Master's Degree,Employed Part-time,Own,35,57816,631,0.51,4374
+Female,Single,PhD,Self-employed,Rent,41,53249,751,0.43,11017
+Female,Widowed,Bachelor's Degree,Employed Full-time,Rent,28,55221,548,0.38,13379
+Female,Divorced,PhD,Employed Full-time,Own,30,54216,676,0.35,10104
+Non-binary,Single,PhD,Employed Full-time,Mortgage,45,47790,692,0.35,11208
+Male,Divorced,Bachelor's Degree,Employed Part-time,Own,39,58945,772,0.28,11601
+Male,Widowed,PhD,Employed Part-time,Own,60,59320,388,0.58,9893
+Non-binary,Married,Bachelor's Degree,Employed Part-time,Rent,34,29099,696,0.39,16122
+Non-binary,Widowed,PhD,Self-employed,Mortgage,50,45640,640,0.27,6954
+Non-binary,Widowed,PhD,Unemployed,Mortgage,39,44137,595,0.34,8679
+Female,Married,High School,Employed Part-time,Mortgage,43,51751,689,0.44,10867
+Female,Divorced,Bachelor's Degree,Unemployed,Rent,34,44991,659,0.36,5376
+Male,Divorced,Bachelor's Degree,Self-employed,Rent,43,42956,649,0.3,10734
+Female,Married,PhD,Employed Full-time,Own,48,56201,649,0.46,16714
+Non-binary,Divorced,Master's Degree,Employed Part-time,Mortgage,38,62381,816,0.4,10629
+Non-binary,Married,Bachelor's Degree,Employed Part-time,Own,41,51234,878,0.63,17552
+Female,Divorced,PhD,Employed Part-time,Own,29,61904,740,0.47,8057
+Non-binary,Widowed,PhD,Employed Part-time,Mortgage,35,54290,708,0.54,18313
+Male,Widowed,Master's Degree,Unemployed,Rent,25,49352,509,0.28,2591
+Non-binary,Widowed,PhD,Employed Part-time,Mortgage,32,47197,757,0.25,1372
+Male,Widowed,Master's Degree,Employed Full-time,Mortgage,24,62218,497,0.55,6749
+Non-binary,Single,PhD,Employed Full-time,Own,51,44849,626,0.52,13973
+Female,Widowed,High School,Unemployed,Rent,31,53399,763,0.27,8693
+Non-binary,Married,PhD,Unemployed,Own,33,61115,759,0.44,11259
+Non-binary,Single,Bachelor's Degree,Employed Part-time,Rent,32,53160,818,0.54,9862
+Male,Married,PhD,Employed Full-time,Own,31,61381,587,0.47,8473
+Non-binary,Married,PhD,Employed Full-time,Mortgage,67,63731,654,0.27,16085
+Male,Married,Master's Degree,Employed Part-time,Rent,44,50464,708,0.3,18992
+Male,Single,Master's Degree,Unemployed,Rent,22,52244,656,0.38,18017
+Male,Married,Master's Degree,Unemployed,Mortgage,27,63592,512,0.49,9726
+Male,Divorced,Master's Degree,Self-employed,Own,17,35479,627,0.5,13820
+Non-binary,Divorced,Bachelor's Degree,Self-employed,Own,38,40739,533,0.31,6366
+Female,Single,Master's Degree,Unemployed,Own,37,38422,783,0.37,17577
+Male,Divorced,High School,Unemployed,Mortgage,42,48925,622,0.49,15626
+Female,Single,PhD,Self-employed,Rent,41,53431,624,0.32,11933
+Non-binary,Divorced,Bachelor's Degree,Employed Part-time,Rent,35,54884,649,0.53,8096
+Non-binary,Married,PhD,Employed Full-time,Mortgage,35,70910,782,0.51,8209
+Non-binary,Married,Master's Degree,Unemployed,Own,55,54899,684,0.5,16845
+Non-binary,Widowed,High School,Unemployed,Mortgage,27,52084,614,0.31,6772
+Non-binary,Widowed,Master's Degree,Employed Part-time,Mortgage,36,44650,709,0.19,11238
+Female,Divorced,PhD,Employed Part-time,Own,49,47495,643,0.37,4054
+Non-binary,Single,Bachelor's Degree,Unemployed,Own,46,60402,589,0.48,6736
+Male,Widowed,PhD,Self-employed,Own,27,53128,466,0.43,12498
+Non-binary,Divorced,High School,Self-employed,Mortgage,42,28686,729,0.61,16914
+Female,Divorced,High School,Employed Part-time,Mortgage,36,59389,755,0.38,10235
+Non-binary,Single,PhD,Employed Part-time,Own,30,54264,825,0.31,13914
+Male,Single,PhD,Unemployed,Rent,50,48572,629,0.63,13897
+Female,Married,Master's Degree,Employed Part-time,Own,30,58323,657,0.4,21686
+Female,Widowed,PhD,Unemployed,Rent,49,48220,716,0.47,6611
+Male,Widowed,PhD,Unemployed,Rent,62,63781,676,0.24,9044
+Male,Widowed,Master's Degree,Unemployed,Rent,33,42828,632,0.43,11831
+Female,Married,High School,Employed Full-time,Rent,39,37489,817,0.28,13075
+Non-binary,Divorced,PhD,Employed Part-time,Rent,49,49869,744,0.32,9078
+Male,Divorced,High School,Employed Part-time,Rent,64,68873,598,0.39,13642
+Male,Married,High School,Self-employed,Rent,59,50377,734,0.39,14985
+Non-binary,Widowed,Bachelor's Degree,Employed Part-time,Mortgage,25,54014,644,0.47,8903
+Female,Divorced,High School,Employed Full-time,Rent,51,78661,591,0.4,16548
+Non-binary,Single,PhD,Unemployed,Own,42,46562,541,0.48,13840
+Non-binary,Widowed,Master's Degree,Self-employed,Mortgage,36,64636,647,0.23,16962
+Male,Married,High School,Employed Part-time,Own,51,52329,610,0.4,5462
+Male,Single,PhD,Self-employed,Own,24,53795,750,0.37,10983
+Male,Divorced,PhD,Employed Full-time,Own,45,60828,484,0.25,3768
+Male,Widowed,PhD,Employed Part-time,Own,43,46742,791,0.3,9924
+Non-binary,Widowed,PhD,Unemployed,Own,36,54164,515,0.34,5083
+Non-binary,Divorced,High School,Employed Part-time,Own,43,50618,819,0.63,15058
+Male,Widowed,Bachelor's Degree,Self-employed,Own,28,32386,671,0.2,12584
+Male,Married,Bachelor's Degree,Unemployed,Rent,34,46299,603,0.43,21483
+Female,Widowed,High School,Employed Part-time,Mortgage,15,60323,731,0.43,8385
+Male,Single,Bachelor's Degree,Unemployed,Mortgage,48,63421,613,0.44,2618
+Male,Single,Master's Degree,Unemployed,Mortgage,31,40740,776,0.32,10546
+Female,Divorced,Bachelor's Degree,Unemployed,Mortgage,54,54817,569,0.54,10117
+Non-binary,Single,PhD,Employed Part-time,Rent,54,37034,651,0.27,5371
+Non-binary,Married,Bachelor's Degree,Employed Full-time,Own,44,59129,632,0.4,14676
+Male,Single,High School,Self-employed,Own,56,51287,593,0.59,14063
+Non-binary,Widowed,High School,Employed Part-time,Own,49,60179,758,0.43,13963
+Male,Widowed,PhD,Employed Full-time,Own,47,55608,616,0.47,17743
+Female,Widowed,High School,Employed Full-time,Rent,24,54847,832,0.32,8391
+Non-binary,Single,High School,Self-employed,Rent,62,51183,399,0.58,5572
+Male,Divorced,Master's Degree,Employed Full-time,Rent,53,42599,512,0.37,8677
+Non-binary,Widowed,PhD,Employed Full-time,Own,41,45518,557,0.5,16379
+Female,Single,Bachelor's Degree,Employed Full-time,Rent,44,32931,667,0.26,5700
+Non-binary,Divorced,PhD,Unemployed,Rent,35,44879,599,0.41,11630
+Non-binary,Married,High School,Employed Full-time,Rent,33,50058,867,0.32,6046
+Female,Widowed,Master's Degree,Self-employed,Own,60,47103,727,0.5,5138
+Female,Single,High School,Employed Full-time,Own,50,27070,656,0.51,12386
+Female,Married,Master's Degree,Employed Part-time,Own,46,43284,686,0.36,8418
+Female,Single,PhD,Employed Part-time,Rent,45,49061,544,0.32,14384
+Male,Single,High School,Employed Full-time,Own,38,50136,834,0.35,5166
+Non-binary,Married,PhD,Unemployed,Mortgage,26,59947,742,0.4,13828
+Male,Single,Bachelor's Degree,Self-employed,Mortgage,29,60858,530,0.46,5423
+Female,Single,PhD,Employed Part-time,Own,45,40562,623,0.33,422
+Non-binary,Widowed,PhD,Self-employed,Own,47,54182,639,0.3,19369
+Non-binary,Married,Master's Degree,Employed Full-time,Own,38,58448,634,0.38,12811
+Male,Divorced,PhD,Employed Full-time,Mortgage,41,34041,646,0.39,11992
+Non-binary,Single,Master's Degree,Employed Full-time,Rent,23,41021,603,0.46,14366
+Male,Divorced,PhD,Employed Full-time,Mortgage,37,52964,658,0.37,8386
+Male,Widowed,High School,Employed Full-time,Mortgage,12,44460,734,0.42,5491
+Female,Widowed,Bachelor's Degree,Unemployed,Own,33,45277,690,0.44,10995
+Female,Divorced,High School,Self-employed,Mortgage,46,57768,581,0.4,8125
+Female,Widowed,Master's Degree,Employed Full-time,Own,26,66534,579,0.36,4640
+Male,Widowed,High School,Unemployed,Mortgage,38,35048,480,0.49,7682
+Female,Married,Bachelor's Degree,Unemployed,Mortgage,41,47442,537,0.29,12337
+Male,Divorced,PhD,Unemployed,Rent,58,51222,562,0.46,9109
+Male,Widowed,PhD,Self-employed,Mortgage,27,61248,716,0.35,18307
+Non-binary,Married,High School,Self-employed,Mortgage,38,69262,510,0.42,6622
+Male,Divorced,High School,Self-employed,Own,51,43805,629,0.35,6228
+Male,Divorced,Bachelor's Degree,Self-employed,Mortgage,33,45911,741,0.33,9082
+Male,Widowed,Master's Degree,Employed Full-time,Mortgage,26,40069,655,0.51,9063
+Female,Widowed,Master's Degree,Employed Part-time,Mortgage,43,39902,679,0.41,10428
+Male,Widowed,High School,Employed Full-time,Rent,45,39220,631,0.57,11442
+Non-binary,Single,Bachelor's Degree,Unemployed,Rent,39,47957,680,0.48,8144
+Female,Divorced,High School,Self-employed,Mortgage,44,52109,643,0.45,3392
+Male,Single,High School,Self-employed,Own,38,63365,630,0.5,12096
+Male,Single,High School,Unemployed,Own,31,35405,697,0.47,6912
+Female,Widowed,PhD,Employed Full-time,Rent,40,56414,784,0.36,12223
+Non-binary,Single,Bachelor's Degree,Unemployed,Mortgage,47,26514,681,0.37,12621
+Male,Widowed,Master's Degree,Employed Full-time,Rent,37,44149,747,0.36,11788
+Non-binary,Divorced,Master's Degree,Employed Part-time,Own,40,52566,590,0.22,15301
+Female,Married,Master's Degree,Self-employed,Mortgage,47,32101,581,0.45,8876
+Non-binary,Divorced,Master's Degree,Employed Part-time,Rent,32,61751,640,0.47,15196
+Non-binary,Married,Bachelor's Degree,Employed Full-time,Own,52,47947,717,0.44,7092
+Male,Single,Master's Degree,Employed Full-time,Own,62,31044,530,0.35,12045
+Non-binary,Widowed,PhD,Self-employed,Rent,36,52664,516,0.49,5810
+Non-binary,Single,Master's Degree,Employed Part-time,Own,40,54667,561,0.66,5134
+Male,Married,Bachelor's Degree,Unemployed,Mortgage,51,30482,811,0.45,7929
+Female,Married,Master's Degree,Unemployed,Own,39,31000,740,0.39,10668
+Male,Divorced,PhD,Self-employed,Rent,46,27639,872,0.35,11958
+Non-binary,Divorced,Master's Degree,Employed Part-time,Rent,35,46232,560,0.53,12948
+Female,Married,PhD,Employed Part-time,Rent,15,57446,751,0.35,7145
+Non-binary,Divorced,PhD,Unemployed,Rent,20,46092,655,0.48,9583
+Male,Divorced,Master's Degree,Unemployed,Mortgage,38,49898,556,0.37,2381
+Male,Married,Bachelor's Degree,Self-employed,Mortgage,51,46073,533,0.43,14400
+Non-binary,Single,High School,Employed Part-time,Own,25,60345,586,0.48,15068
+Male,Divorced,Master's Degree,Unemployed,Rent,32,49184,566,0.43,11971
+Female,Single,PhD,Employed Part-time,Rent,47,52616,666,0.41,13671
+Male,Married,Master's Degree,Employed Part-time,Rent,34,53003,746,0.49,10079
+Male,Married,PhD,Self-employed,Rent,36,43638,618,0.39,5909
+Female,Widowed,PhD,Employed Full-time,Mortgage,51,44236,636,0.37,4143
+Female,Single,Master's Degree,Self-employed,Rent,40,35406,808,0.21,13158
+Non-binary,Divorced,Master's Degree,Self-employed,Mortgage,25,56694,573,0.49,11351
+Non-binary,Single,Master's Degree,Unemployed,Rent,45,47570,616,0.61,7942
+Male,Married,Master's Degree,Employed Full-time,Mortgage,35,61600,392,0.25,3509
+Male,Married,PhD,Employed Part-time,Own,39,39061,613,0.37,8924
+Non-binary,Single,Master's Degree,Unemployed,Own,52,42389,645,0.53,1039
+Female,Married,Master's Degree,Unemployed,Rent,23,23409,707,0.66,10589
+Male,Married,Master's Degree,Self-employed,Mortgage,39,54737,781,0.26,13848
+Male,Widowed,PhD,Employed Part-time,Mortgage,36,48912,694,0.31,11082
+Male,Married,Bachelor's Degree,Unemployed,Own,20,57323,627,0.34,10235
+Male,Single,PhD,Employed Part-time,Own,57,50501,716,0.43,8217
+Non-binary,Divorced,Bachelor's Degree,Unemployed,Own,57,48591,733,0.52,10577
+Non-binary,Single,High School,Employed Full-time,Mortgage,41,42224,527,0.46,8951
+Female,Single,PhD,Employed Part-time,Own,55,44339,753,0.33,7104
+Female,Single,Bachelor's Degree,Self-employed,Mortgage,35,46686,655,0.37,9652
+Non-binary,Widowed,Master's Degree,Employed Full-time,Rent,29,43194,829,0.28,7206
+Male,Married,Master's Degree,Employed Full-time,Rent,40,62149,732,0.54,22
+Non-binary,Married,PhD,Employed Full-time,Rent,44,58505,723,0.45,7428
+Female,Divorced,Bachelor's Degree,Self-employed,Own,42,39934,785,0.32,9352
+Non-binary,Married,PhD,Self-employed,Rent,41,39805,742,0.46,1096
+Female,Married,Bachelor's Degree,Employed Part-time,Mortgage,42,30455,687,0.39,12426
+Male,Divorced,High School,Self-employed,Own,40,62121,739,0.49,1915
+Non-binary,Divorced,Master's Degree,Employed Full-time,Own,52,63434,613,0.41,15603
+Female,Single,Bachelor's Degree,Unemployed,Mortgage,61,35608,524,0.39,10221
+Non-binary,Married,PhD,Self-employed,Mortgage,30,54200,533,0.38,2956
+Female,Married,Master's Degree,Employed Part-time,Mortgage,14,41353,572,0.47,6278
+Male,Single,High School,Self-employed,Own,39,46810,770,0.4,15581
+Non-binary,Married,PhD,Self-employed,Own,39,58646,656,0.26,5085
+Female,Single,PhD,Employed Full-time,Mortgage,39,49937,645,0.46,6654
+Non-binary,Single,Bachelor's Degree,Employed Part-time,Mortgage,29,48260,648,0.37,12259
+Female,Married,PhD,Unemployed,Own,52,46821,347,0.28,5301
+Female,Divorced,Master's Degree,Employed Part-time,Own,58,32972,703,0.48,4293
+Non-binary,Married,High School,Employed Part-time,Mortgage,46,33189,639,0.36,8965
+Non-binary,Single,Master's Degree,Unemployed,Mortgage,28,47172,666,0.35,1903
+Non-binary,Widowed,Master's Degree,Employed Part-time,Own,42,60095,629,0.21,5856
+Male,Divorced,Bachelor's Degree,Employed Full-time,Own,36,56853,773,0.56,4422
+Female,Widowed,Bachelor's Degree,Employed Part-time,Rent,25,48861,658,0.44,21141
+Male,Divorced,High School,Self-employed,Rent,23,39668,723,0.38,5810
+Male,Single,High School,Employed Part-time,Own,36,59713,653,0.53,8704
+Female,Married,Bachelor's Degree,Employed Full-time,Own,34,53431,645,0.12,6878
+Non-binary,Widowed,Master's Degree,Employed Part-time,Own,34,60413,709,0.35,16293
+Non-binary,Widowed,Bachelor's Degree,Unemployed,Rent,30,50456,689,0.5,16391
+Female,Widowed,PhD,Unemployed,Mortgage,40,4319,528,0.56,2470
+Female,Single,Master's Degree,Unemployed,Rent,37,45154,553,0.26,15362
+Male,Single,Master's Degree,Employed Part-time,Mortgage,64,49367,663,0.47,16594
+Female,Widowed,Bachelor's Degree,Self-employed,Mortgage,41,51711,685,0.26,17853
+Female,Single,Master's Degree,Employed Part-time,Mortgage,32,57563,591,0.44,18927
+Male,Widowed,Master's Degree,Employed Part-time,Rent,52,48178,625,0.34,12802
+Female,Married,High School,Employed Full-time,Rent,46,48610,724,0.48,6310
+Female,Single,Bachelor's Degree,Unemployed,Mortgage,45,59087,578,0.31,5183
+Female,Widowed,PhD,Unemployed,Mortgage,32,52178,637,0.44,11843
+Male,Divorced,High School,Self-employed,Mortgage,47,36582,600,0.28,10120
+Female,Widowed,Bachelor's Degree,Employed Part-time,Rent,44,43773,655,0.47,8431
+Male,Married,High School,Self-employed,Rent,38,37166,520,0.2,12274
+Non-binary,Single,Bachelor's Degree,Employed Full-time,Own,46,48339,615,0.46,15582
+Female,Divorced,High School,Self-employed,Own,24,50998,845,0.5,7835
+Male,Married,PhD,Unemployed,Mortgage,62,39874,806,0.37,6131
+Non-binary,Widowed,PhD,Employed Part-time,Own,39,58973,710,0.37,12968
+Female,Single,Bachelor's Degree,Self-employed,Rent,50,55451,548,0.37,9365
+Non-binary,Divorced,PhD,Employed Part-time,Rent,54,50336,571,0.31,7189
+Male,Married,High School,Unemployed,Own,41,55426,581,0.28,13345
+Non-binary,Widowed,High School,Unemployed,Mortgage,34,51759,568,0.48,13370
+Female,Married,Bachelor's Degree,Unemployed,Rent,39,52010,784,0.29,9821
+Male,Single,PhD,Unemployed,Rent,58,66594,700,0.42,5952
+Non-binary,Single,PhD,Self-employed,Rent,43,61927,653,0.4,7480
+Non-binary,Divorced,High School,Employed Part-time,Rent,33,50913,498,0.49,20980
+Male,Single,High School,Employed Part-time,Rent,30,37196,735,0.36,12699
+Female,Divorced,High School,Unemployed,Own,50,34596,761,0.48,7582
+Male,Married,Master's Degree,Employed Part-time,Rent,30,55277,589,0.34,14542
+Male,Married,Bachelor's Degree,Unemployed,Rent,28,64118,807,0.2,5292
+Female,Divorced,High School,Unemployed,Rent,51,34255,723,0.34,5148
+Female,Single,High School,Self-employed,Mortgage,46,38110,645,0.36,16907
+Non-binary,Widowed,Bachelor's Degree,Self-employed,Rent,47,57343,522,0.47,14681
+Female,Single,PhD,Unemployed,Rent,41,28593,774,0.48,6517
+Female,Divorced,Master's Degree,Employed Part-time,Own,29,67856,651,0.4,13955
+Non-binary,Single,PhD,Employed Full-time,Mortgage,40,36429,598,0.23,11219
+Male,Divorced,PhD,Unemployed,Own,40,45347,618,0.35,6979
+Female,Single,High School,Unemployed,Own,41,53846,650,0.32,7079
+Non-binary,Single,High School,Self-employed,Rent,40,54017,840,0.27,12191
+Female,Divorced,PhD,Unemployed,Mortgage,41,54707,520,0.4,11826
+Male,Single,Bachelor's Degree,Employed Full-time,Rent,42,27568,837,0.29,10399
+Male,Single,Bachelor's Degree,Self-employed,Mortgage,17,47732,539,0.29,4198
+Non-binary,Single,Master's Degree,Unemployed,Own,36,54843,488,0.36,18971
+Female,Single,PhD,Unemployed,Mortgage,36,56932,669,0.4,19532
+Non-binary,Divorced,PhD,Employed Full-time,Own,46,49887,847,0.51,13410
+Female,Widowed,Bachelor's Degree,Employed Part-time,Rent,19,47575,751,0.25,10139
+Male,Widowed,High School,Unemployed,Own,35,49748,704,0.42,16007
+Male,Widowed,Master's Degree,Self-employed,Mortgage,30,49987,636,0.57,1210
+Female,Single,PhD,Employed Full-time,Own,53,51817,779,0.49,4322
+Non-binary,Married,High School,Self-employed,Own,30,52871,708,0.42,14190
+Non-binary,Married,Bachelor's Degree,Self-employed,Mortgage,44,54439,643,0.48,7166
+Female,Single,High School,Employed Part-time,Mortgage,36,71047,594,0.32,11917
+Male,Single,PhD,Employed Part-time,Mortgage,30,47705,550,0.28,7078
+Female,Divorced,PhD,Unemployed,Own,29,51197,672,0.25,12001
+Male,Divorced,High School,Employed Full-time,Own,47,26040,453,0.2,10966
+Male,Married,Master's Degree,Self-employed,Rent,41,43337,571,0.6,5260
+Non-binary,Married,Bachelor's Degree,Unemployed,Own,30,49460,715,0.46,4550
+Female,Single,PhD,Employed Full-time,Own,51,31692,573,0.49,7579
+Non-binary,Married,High School,Employed Full-time,Mortgage,46,48445,511,0.48,9070
+Male,Widowed,PhD,Employed Full-time,Mortgage,33,43667,677,0.32,12352
+Female,Widowed,PhD,Employed Full-time,Mortgage,43,52047,845,0.47,3851
+Male,Married,High School,Employed Full-time,Rent,41,58415,662,0.37,22869
+Non-binary,Married,Bachelor's Degree,Employed Full-time,Mortgage,50,32848,708,0.37,11387
+Female,Widowed,High School,Employed Part-time,Own,38,54308,464,0.29,12465
+Male,Widowed,Master's Degree,Employed Part-time,Rent,32,36033,786,0.4,19539
+Male,Married,Master's Degree,Self-employed,Mortgage,30,57585,539,0.52,12021
+Female,Widowed,Bachelor's Degree,Employed Full-time,Own,52,25341,628,0.31,9481
+Male,Single,Master's Degree,Employed Full-time,Mortgage,33,54913,571,0.32,11751
+Non-binary,Single,PhD,Employed Full-time,Rent,28,45128,652,0.42,17299
+Non-binary,Single,PhD,Employed Part-time,Rent,33,37107,638,0.31,7198
+Non-binary,Divorced,Master's Degree,Employed Full-time,Rent,44,48957,682,0.59,19034
+Male,Married,High School,Employed Full-time,Rent,37,43252,559,0.42,13674
+Non-binary,Widowed,PhD,Employed Full-time,Mortgage,43,42997,724,0.33,2870
+Non-binary,Married,Master's Degree,Unemployed,Own,39,46077,453,0.48,14094
+Female,Widowed,Bachelor's Degree,Self-employed,Mortgage,44,46121,697,0.64,8341
+Male,Widowed,Master's Degree,Unemployed,Rent,44,52914,746,0.42,19761
+Female,Married,Bachelor's Degree,Unemployed,Own,33,33921,810,0.26,11387
+Female,Married,Master's Degree,Employed Full-time,Own,36,38931,796,0.31,16735
+Non-binary,Widowed,PhD,Employed Part-time,Rent,36,59133,691,0.39,8905
+Male,Single,PhD,Employed Full-time,Mortgage,29,61865,644,0.45,3731
+Non-binary,Single,Bachelor's Degree,Employed Full-time,Mortgage,40,46537,834,0.5,10140
+Non-binary,Divorced,High School,Employed Full-time,Mortgage,41,54596,569,0.35,7274
+Non-binary,Single,Master's Degree,Unemployed,Rent,41,42485,502,0.42,17660
+Male,Widowed,Bachelor's Degree,Employed Full-time,Rent,54,70116,689,0.13,9352
+Male,Divorced,High School,Unemployed,Mortgage,43,47072,656,0.43,11719
+Female,Widowed,High School,Employed Full-time,Mortgage,41,47522,739,0.53,11953
+Non-binary,Widowed,PhD,Employed Full-time,Rent,44,38845,788,0.37,8407
+Non-binary,Divorced,Bachelor's Degree,Employed Full-time,Rent,38,57639,588,0.45,5512
+Male,Widowed,Master's Degree,Self-employed,Rent,42,43922,784,0.27,11046
+Non-binary,Married,PhD,Employed Full-time,Rent,42,52073,632,0.14,11920
+Non-binary,Divorced,PhD,Unemployed,Mortgage,30,51128,654,0.32,9468
+Female,Widowed,Master's Degree,Unemployed,Own,32,58402,410,0.53,12680
+Female,Single,Bachelor's Degree,Unemployed,Rent,64,37398,599,0.41,13693
+Female,Divorced,Master's Degree,Employed Full-time,Mortgage,19,31296,786,0.53,2574
+Male,Divorced,High School,Employed Part-time,Own,54,42059,808,0.38,12971
+Non-binary,Single,High School,Employed Full-time,Own,35,64154,634,0.16,10664
+Female,Divorced,High School,Employed Full-time,Rent,20,53493,593,0.48,11119
+Male,Single,High School,Employed Full-time,Own,34,61710,829,0.42,6822
+Non-binary,Widowed,Bachelor's Degree,Employed Part-time,Own,32,55059,550,0.36,14420
+Non-binary,Single,High School,Employed Part-time,Mortgage,39,47573,805,0.42,12505
+Male,Widowed,Bachelor's Degree,Employed Part-time,Own,63,47255,568,0.24,8731
+Female,Widowed,Bachelor's Degree,Unemployed,Own,34,55022,506,0.35,12826
+Male,Divorced,Master's Degree,Employed Full-time,Own,56,43008,752,0.51,7891
+Non-binary,Divorced,Bachelor's Degree,Self-employed,Own,36,34689,552,0.38,18326
+Female,Widowed,PhD,Self-employed,Rent,37,57419,623,0.53,13098
+Female,Single,Bachelor's Degree,Employed Full-time,Mortgage,48,52715,576,0.43,8845
+Non-binary,Divorced,Bachelor's Degree,Unemployed,Rent,38,45817,627,0.46,5625
+Non-binary,Single,Bachelor's Degree,Unemployed,Own,43,52400,607,0.41,12056
+Female,Single,Bachelor's Degree,Employed Part-time,Mortgage,48,53220,883,0.4,4541
+Male,Divorced,PhD,Employed Full-time,Own,46,66521,711,0.32,9883
+Female,Widowed,Master's Degree,Employed Part-time,Rent,48,64568,776,0.55,9496
+Non-binary,Single,Master's Degree,Employed Full-time,Mortgage,44,49950,752,0.41,8742
+Non-binary,Married,Master's Degree,Unemployed,Rent,31,33978,801,0.49,6383
+Male,Divorced,Bachelor's Degree,Employed Part-time,Rent,61,44285,495,0.37,9650
+Male,Single,Master's Degree,Employed Part-time,Own,35,41693,643,0.62,11489
+Female,Single,High School,Employed Part-time,Own,45,59756,652,0.57,11139
+Male,Widowed,Bachelor's Degree,Unemployed,Mortgage,31,62806,844,0.47,10138
+Male,Single,Master's Degree,Unemployed,Mortgage,48,57368,548,0.52,11712
+Non-binary,Widowed,Bachelor's Degree,Unemployed,Own,35,59735,754,0.42,17396
+Female,Single,PhD,Self-employed,Rent,50,61071,581,0.44,8649
+Male,Married,High School,Self-employed,Rent,25,31722,715,0.17,2093
+Male,Married,PhD,Employed Full-time,Rent,30,22446,784,0.33,12063
+Male,Married,Bachelor's Degree,Employed Part-time,Own,27,42338,744,0.51,15029
+Female,Widowed,PhD,Unemployed,Own,30,55004,614,0.45,13689
+Non-binary,Divorced,Bachelor's Degree,Unemployed,Mortgage,65,37277,896,0.37,16915
+Male,Single,High School,Employed Full-time,Rent,43,62217,506,0.64,5668
+Female,Married,Master's Degree,Self-employed,Own,44,42664,589,0.28,16378
+Male,Single,Master's Degree,Unemployed,Rent,55,46022,736,0.44,12753
+Non-binary,Married,High School,Employed Full-time,Rent,36,66223,694,0.4,6965
+Female,Single,Bachelor's Degree,Employed Part-time,Own,49,38713,564,0.37,11872
+Male,Divorced,Master's Degree,Unemployed,Own,36,55673,467,0.51,2566
+Non-binary,Single,Master's Degree,Employed Full-time,Rent,43,33575,643,0.33,7551
+Non-binary,Single,Master's Degree,Employed Part-time,Own,34,42138,750,0.31,1021
+Non-binary,Married,High School,Employed Full-time,Mortgage,41,53609,705,0.37,12584
+Non-binary,Divorced,PhD,Employed Full-time,Rent,17,54493,526,0.41,15127
+Female,Divorced,High School,Employed Full-time,Own,32,61524,648,0.33,9257
+Female,Widowed,Bachelor's Degree,Employed Part-time,Own,26,49845,624,0.4,10402
+Male,Divorced,PhD,Unemployed,Rent,39,51488,692,0.44,579
+Non-binary,Single,Bachelor's Degree,Unemployed,Rent,44,49746,688,0.39,9657
+Non-binary,Divorced,Master's Degree,Self-employed,Rent,31,31705,839,0.47,7986
+Female,Widowed,Master's Degree,Employed Part-time,Mortgage,54,50916,791,0.34,5723
+Non-binary,Widowed,Master's Degree,Employed Full-time,Rent,52,51406,694,0.44,10708
+Female,Single,PhD,Unemployed,Mortgage,30,53406,670,0.61,12625
+Male,Divorced,High School,Unemployed,Rent,65,53951,703,0.31,7962
+Male,Single,Master's Degree,Unemployed,Own,44,42658,692,0.53,7458
+Non-binary,Married,PhD,Employed Full-time,Mortgage,31,55066,652,0.42,10575
+Non-binary,Widowed,Bachelor's Degree,Unemployed,Rent,53,56653,559,0.27,10904
+Non-binary,Widowed,High School,Unemployed,Rent,25,34872,552,0.35,10459
+Female,Widowed,High School,Unemployed,Own,11,48008,692,0.54,12538
+Male,Married,Bachelor's Degree,Employed Full-time,Rent,33,38209,679,0.28,9288
+Female,Divorced,PhD,Self-employed,Mortgage,43,43124,862,0.37,10519
+Non-binary,Widowed,High School,Employed Part-time,Own,29,53868,748,0.41,6920
+Female,Widowed,Master's Degree,Unemployed,Mortgage,22,54420,610,0.43,7597
+Female,Married,PhD,Employed Full-time,Rent,46,39728,629,0.34,10591
+Non-binary,Widowed,High School,Self-employed,Rent,38,53096,701,0.35,1649
+Male,Divorced,Master's Degree,Employed Full-time,Rent,54,60125,875,0.37,5873
+Female,Widowed,Bachelor's Degree,Employed Full-time,Mortgage,31,43815,723,0.46,438
+Female,Widowed,High School,Employed Full-time,Mortgage,49,44311,639,0.27,252
+Female,Married,Master's Degree,Employed Part-time,Own,43,57376,594,0.55,15225
+Female,Widowed,PhD,Unemployed,Own,29,53673,541,0.37,14523
+Non-binary,Single,Bachelor's Degree,Employed Part-time,Rent,50,41655,649,0.44,4046
+Female,Divorced,Bachelor's Degree,Employed Part-time,Own,25,45073,563,0.4,12463
+Female,Divorced,High School,Self-employed,Mortgage,39,52475,551,0.43,10996
+Male,Divorced,PhD,Unemployed,Mortgage,26,51314,794,0.29,21
+Non-binary,Single,PhD,Unemployed,Rent,46,48914,642,0.46,4616
+Male,Single,High School,Employed Part-time,Own,46,53475,791,0.46,11511
+Non-binary,Widowed,High School,Employed Part-time,Mortgage,55,57059,648,0.5,16858
+Female,Single,High School,Employed Part-time,Rent,35,44205,695,0.52,4734
+Non-binary,Divorced,Master's Degree,Unemployed,Mortgage,38,60016,677,0.42,15383
+Male,Single,Master's Degree,Employed Part-time,Rent,36,45948,617,0.48,4533
+Non-binary,Single,Master's Degree,Unemployed,Mortgage,50,55148,805,0.31,1362
+Female,Divorced,Master's Degree,Self-employed,Own,34,61019,477,0.28,12893
+Male,Widowed,Master's Degree,Self-employed,Rent,57,57449,566,0.4,14549
+Non-binary,Single,Bachelor's Degree,Unemployed,Rent,43,40728,652,0.42,6805
+Female,Widowed,PhD,Employed Part-time,Rent,33,46691,753,0.22,7222
+Female,Widowed,Bachelor's Degree,Unemployed,Own,36,51725,584,0.36,17185
+Male,Widowed,Bachelor's Degree,Self-employed,Rent,40,43950,547,0.39,12193
+Female,Widowed,Master's Degree,Employed Full-time,Rent,44,38082,645,0.34,6741
+Non-binary,Divorced,Master's Degree,Self-employed,Own,42,49401,625,0.48,9437
+Female,Married,Bachelor's Degree,Employed Part-time,Own,47,46784,674,0.26,5811
+Female,Divorced,Bachelor's Degree,Self-employed,Mortgage,17,46365,575,0.29,4466
+Non-binary,Single,PhD,Self-employed,Rent,45,44857,482,0.44,15996
+Male,Married,PhD,Employed Full-time,Rent,35,73010,733,0.57,6026
+Male,Married,High School,Employed Part-time,Rent,54,50795,757,0.44,13078
+Non-binary,Married,Master's Degree,Unemployed,Rent,41,37208,677,0.37,15603
+Female,Married,Bachelor's Degree,Employed Part-time,Rent,31,47359,797,0.26,15912
+Female,Divorced,High School,Self-employed,Rent,58,46262,721,0.3,17426
+Female,Single,Bachelor's Degree,Self-employed,Mortgage,35,37591,646,0.32,3491
+Female,Married,Bachelor's Degree,Employed Full-time,Own,37,52906,758,0.38,16639
+Male,Single,Master's Degree,Self-employed,Rent,32,52229,702,0.34,2969
+Non-binary,Widowed,Bachelor's Degree,Employed Full-time,Own,17,61807,821,0.44,9160
+Male,Single,High School,Employed Part-time,Mortgage,28,27220,497,0.33,9459
+Non-binary,Married,PhD,Unemployed,Mortgage,44,71109,677,0.39,5199
+Non-binary,Divorced,PhD,Employed Full-time,Rent,36,58041,687,0.31,16729
+Male,Widowed,High School,Unemployed,Own,28,47630,560,0.39,16586
+Male,Married,PhD,Employed Part-time,Own,28,54161,597,0.32,3231
+Non-binary,Divorced,Bachelor's Degree,Self-employed,Mortgage,38,56227,526,0.48,2414
+Non-binary,Married,Bachelor's Degree,Employed Part-time,Mortgage,48,52297,617,0.38,2032
+Non-binary,Married,Bachelor's Degree,Employed Part-time,Own,39,63316,689,0.58,10970
+Non-binary,Divorced,High School,Employed Part-time,Rent,29,47749,797,0.38,10463
+Non-binary,Widowed,High School,Employed Full-time,Own,37,35309,720,0.37,14975
+Female,Single,High School,Employed Full-time,Rent,29,46006,649,0.51,5448
+Female,Widowed,PhD,Unemployed,Own,60,62793,651,0.35,17459
+Female,Married,Master's Degree,Unemployed,Own,42,56768,734,0.5,11413
+Female,Divorced,Bachelor's Degree,Unemployed,Own,24,49058,599,0.47,599
+Female,Divorced,Master's Degree,Unemployed,Rent,41,51788,639,0.58,10990
+Female,Widowed,PhD,Unemployed,Mortgage,41,64205,683,0.53,7905
+Male,Widowed,PhD,Unemployed,Mortgage,36,61958,670,0.34,6712
+Female,Single,Master's Degree,Employed Full-time,Rent,48,60203,698,0.2,8950
+Female,Divorced,High School,Unemployed,Mortgage,48,52635,717,0.25,10807
+Female,Widowed,Master's Degree,Unemployed,Own,26,54511,522,0.38,5502
+Female,Divorced,PhD,Self-employed,Rent,36,49978,704,0.36,7151
+Non-binary,Single,Bachelor's Degree,Employed Part-time,Mortgage,54,50685,521,0.39,18594
+Non-binary,Divorced,Master's Degree,Unemployed,Mortgage,47,53200,623,0.38,12075
+Male,Single,PhD,Self-employed,Mortgage,36,52387,429,0.28,3279
+Male,Married,Bachelor's Degree,Self-employed,Own,32,37968,682,0.35,2952
+Male,Divorced,High School,Unemployed,Rent,43,50634,806,0.53,11941
+Non-binary,Widowed,High School,Employed Part-time,Own,48,47027,558,0.48,12709
+Female,Divorced,PhD,Employed Part-time,Mortgage,47,82883,668,0.35,12425
+Male,Divorced,High School,Unemployed,Own,25,55367,665,0.47,12220
+Male,Divorced,Bachelor's Degree,Employed Full-time,Rent,45,47884,630,0.45,16927
+Female,Divorced,Master's Degree,Employed Full-time,Mortgage,32,46362,674,0.45,14926
+Non-binary,Single,Master's Degree,Employed Part-time,Rent,35,54255,655,0.42,19095
+Non-binary,Single,Bachelor's Degree,Employed Part-time,Own,40,53715,604,0.58,13894
+Male,Single,Bachelor's Degree,Self-employed,Mortgage,34,42957,674,0.48,8450
+Male,Widowed,Bachelor's Degree,Unemployed,Rent,48,70776,692,0.38,10096
+Male,Single,Bachelor's Degree,Unemployed,Mortgage,24,42538,596,0.35,16000
+Female,Widowed,Bachelor's Degree,Self-employed,Own,31,46202,634,0.35,5853
+Non-binary,Widowed,Master's Degree,Employed Part-time,Rent,61,52986,749,0.51,1987
+Female,Married,PhD,Unemployed,Rent,39,59985,577,0.53,15904
+Non-binary,Divorced,Master's Degree,Unemployed,Rent,35,41538,667,0.31,13823
+Female,Single,Bachelor's Degree,Employed Part-time,Mortgage,30,73677,677,0.51,13595
+Male,Divorced,Bachelor's Degree,Self-employed,Rent,31,50871,661,0.36,10407
+Male,Divorced,Master's Degree,Employed Full-time,Mortgage,39,42870,585,0.41,5123
+Non-binary,Divorced,Master's Degree,Employed Part-time,Own,46,47783,596,0.29,11572
+Male,Widowed,High School,Unemployed,Own,35,46117,603,0.48,12262
+Non-binary,Divorced,Master's Degree,Unemployed,Own,39,56532,678,0.44,13249
+Female,Married,Bachelor's Degree,Employed Part-time,Mortgage,44,44701,739,0.47,15680
+Male,Widowed,Bachelor's Degree,Employed Full-time,Mortgage,38,50900,496,0.52,7382
+Male,Married,PhD,Unemployed,Own,44,30784,494,0.24,14717
+Male,Divorced,Bachelor's Degree,Employed Full-time,Mortgage,43,59427,741,0.48,7083
+Non-binary,Divorced,High School,Employed Full-time,Own,39,51772,720,0.44,11568
+Female,Divorced,PhD,Employed Part-time,Mortgage,57,50673,668,0.45,814
+Female,Widowed,Bachelor's Degree,Unemployed,Own,52,55574,582,0.47,17422
+Female,Divorced,High School,Self-employed,Own,55,52896,687,0.31,12052
+Male,Single,PhD,Self-employed,Own,28,45916,705,0.44,11945
+Female,Married,Master's Degree,Unemployed,Mortgage,52,67008,629,0.61,11661
+Non-binary,Single,High School,Self-employed,Own,34,50985,774,0.44,11286
+Female,Married,Master's Degree,Employed Part-time,Rent,28,75949,592,0.59,17958
+Non-binary,Married,Master's Degree,Self-employed,Rent,41,54325,522,0.42,551
+Male,Widowed,Master's Degree,Self-employed,Own,38,56227,614,0.28,370
+Male,Divorced,PhD,Self-employed,Mortgage,51,40548,675,0.46,6453
+Non-binary,Divorced,Master's Degree,Employed Full-time,Rent,40,38269,719,0.47,3301
+Non-binary,Married,PhD,Employed Full-time,Rent,20,48762,574,0.39,8872
+Male,Single,Master's Degree,Employed Part-time,Own,25,40603,580,0.41,3826
+Non-binary,Married,Master's Degree,Employed Full-time,Mortgage,36,60730,801,0.49,3891
+Non-binary,Married,High School,Employed Part-time,Own,37,51842,696,0.52,12275
+Non-binary,Married,Master's Degree,Unemployed,Own,28,62427,719,0.43,10590
+Male,Married,Bachelor's Degree,Employed Full-time,Mortgage,28,45695,755,0.55,11918
+Male,Widowed,High School,Self-employed,Rent,51,23514,543,0.32,16940
+Non-binary,Married,Bachelor's Degree,Employed Full-time,Own,34,36117,545,0.53,13454
+Female,Divorced,Master's Degree,Unemployed,Own,16,53978,805,0.38,2833
+Non-binary,Widowed,PhD,Employed Part-time,Rent,51,44003,774,0.5,13154
+Non-binary,Widowed,PhD,Employed Full-time,Own,25,59466,856,0.47,18071
+Female,Widowed,Master's Degree,Employed Full-time,Rent,34,34348,586,0.39,8232
+Non-binary,Divorced,Bachelor's Degree,Unemployed,Mortgage,35,53739,643,0.44,11776
+Male,Married,High School,Unemployed,Own,64,32050,756,0.39,125
+Female,Widowed,Master's Degree,Employed Full-time,Rent,49,65304,717,0.36,11673
+Female,Single,Master's Degree,Unemployed,Mortgage,32,45904,659,0.5,2673
+Non-binary,Married,High School,Employed Full-time,Mortgage,43,54654,722,0.46,5449
+Female,Divorced,PhD,Employed Full-time,Mortgage,19,57196,719,0.41,10398
+Non-binary,Married,Master's Degree,Unemployed,Mortgage,37,34926,602,0.49,9649
+Male,Widowed,Bachelor's Degree,Unemployed,Own,40,75001,663,0.27,19148
+Non-binary,Divorced,PhD,Employed Full-time,Rent,44,29152,539,0.31,8147
+Non-binary,Divorced,High School,Unemployed,Rent,38,44108,742,0.22,14225
+Non-binary,Divorced,High School,Self-employed,Rent,20,39517,816,0.46,11982
+Male,Widowed,PhD,Employed Full-time,Own,25,47728,579,0.55,10133
+Female,Divorced,High School,Employed Full-time,Rent,38,72629,629,0.27,8666
+Non-binary,Single,Master's Degree,Employed Full-time,Own,40,38062,639,0.34,5854
+Female,Divorced,Bachelor's Degree,Employed Full-time,Mortgage,59,50819,603,0.47,4596
+Non-binary,Widowed,Master's Degree,Employed Full-time,Mortgage,19,52534,673,0.4,19564
+Male,Married,High School,Employed Part-time,Mortgage,33,49532,665,0.4,11676
+Male,Single,PhD,Employed Full-time,Mortgage,40,56408,654,0.39,3482
+Female,Married,Master's Degree,Employed Full-time,Rent,32,46344,687,0.41,7796
+Male,Divorced,Master's Degree,Employed Full-time,Own,57,54267,588,0.32,8691
+Female,Single,Master's Degree,Employed Part-time,Own,40,64664,665,0.54,8181
+Male,Divorced,PhD,Employed Part-time,Own,46,38048,747,0.49,17875
+Female,Divorced,Bachelor's Degree,Employed Full-time,Rent,39,39595,514,0.41,1743
+Male,Widowed,High School,Unemployed,Mortgage,29,56237,548,0.26,312
+Male,Divorced,Master's Degree,Employed Part-time,Own,53,40996,630,0.36,1989
+Non-binary,Divorced,High School,Employed Part-time,Own,42,51283,753,0.31,7176
+Male,Widowed,PhD,Employed Part-time,Mortgage,41,58432,744,0.42,5747
+Non-binary,Married,High School,Self-employed,Mortgage,32,43055,674,0.41,12148
+Female,Single,High School,Self-employed,Rent,36,61172,593,0.4,2736
+Female,Married,High School,Employed Full-time,Own,47,50789,654,0.26,18559
+Non-binary,Widowed,Bachelor's Degree,Unemployed,Mortgage,44,38118,661,0.48,8971
+Male,Widowed,Master's Degree,Self-employed,Rent,25,55513,512,0.31,9064
+Female,Single,PhD,Employed Part-time,Mortgage,30,41806,767,0.34,15345
+Non-binary,Married,High School,Unemployed,Rent,52,48630,790,0.49,4516
+Male,Widowed,Bachelor's Degree,Employed Full-time,Mortgage,42,63745,736,0.26,7127
+Male,Divorced,Bachelor's Degree,Self-employed,Rent,48,61534,864,0.42,8695
+Non-binary,Widowed,Master's Degree,Employed Part-time,Mortgage,60,48640,617,0.38,10107
+Non-binary,Widowed,Bachelor's Degree,Employed Part-time,Rent,27,53495,665,0.44,12384
+Female,Single,High School,Employed Full-time,Rent,29,43387,584,0.53,6633
+Male,Single,Bachelor's Degree,Unemployed,Rent,32,45762,587,0.42,12249
+Female,Single,Bachelor's Degree,Employed Part-time,Mortgage,28,50706,587,0.39,9166
+Non-binary,Married,High School,Unemployed,Rent,49,50602,534,0.47,13179
+Male,Widowed,Bachelor's Degree,Employed Full-time,Own,38,42563,590,0.29,9545
+Female,Divorced,PhD,Self-employed,Mortgage,43,51379,639,0.35,6682
+Male,Married,Master's Degree,Employed Full-time,Mortgage,51,51344,535,0.21,11884
+Male,Divorced,PhD,Employed Full-time,Own,48,41554,505,0.35,12456
+Male,Widowed,Master's Degree,Unemployed,Mortgage,23,72187,715,0.3,13868
+Female,Single,Bachelor's Degree,Self-employed,Own,49,49367,677,0.49,15283
+Non-binary,Married,Bachelor's Degree,Unemployed,Rent,34,58455,685,0.46,8721
+Male,Married,Master's Degree,Employed Full-time,Mortgage,55,63551,602,0.17,10787
+Female,Single,Master's Degree,Unemployed,Own,24,85684,835,0.38,7784
+Female,Single,PhD,Self-employed,Own,32,58147,727,0.5,15753
+Non-binary,Divorced,PhD,Employed Part-time,Mortgage,36,57787,543,0.23,17586
+Female,Married,PhD,Employed Part-time,Own,33,48255,604,0.49,9141
+Male,Divorced,Bachelor's Degree,Self-employed,Mortgage,44,73788,627,0.3,8518
+Non-binary,Widowed,High School,Self-employed,Own,39,47952,515,0.32,5651
+Male,Married,PhD,Employed Full-time,Rent,47,46354,540,0.55,4644
+Non-binary,Single,Master's Degree,Employed Full-time,Rent,37,48500,641,0.6,16511
+Non-binary,Single,Master's Degree,Self-employed,Rent,44,45094,681,0.39,4877
+Male,Divorced,PhD,Unemployed,Own,34,47000,563,0.36,8577
+Male,Divorced,PhD,Unemployed,Own,41,38237,696,0.42,10770
+Female,Divorced,Master's Degree,Self-employed,Own,36,45250,534,0.32,8927
+Non-binary,Divorced,Master's Degree,Self-employed,Mortgage,65,54204,669,0.42,7936
+Male,Widowed,High School,Self-employed,Rent,65,35025,859,0.43,18920
+Non-binary,Married,Master's Degree,Employed Full-time,Rent,40,46400,689,0.54,8648
+Female,Divorced,PhD,Employed Full-time,Rent,47,70064,647,0.39,12013
+Non-binary,Widowed,High School,Unemployed,Rent,51,60761,483,0.33,11217
+Non-binary,Divorced,PhD,Employed Part-time,Rent,33,58223,697,0.29,11726
+Female,Widowed,Master's Degree,Employed Full-time,Mortgage,33,48335,644,0.23,14037
+Male,Widowed,High School,Employed Full-time,Own,36,21511,490,0.29,11591
+Female,Married,Bachelor's Degree,Unemployed,Rent,35,68243,535,0.38,6406
+Female,Divorced,Master's Degree,Employed Full-time,Rent,53,42469,494,0.41,12793
+Male,Married,High School,Unemployed,Rent,41,45011,632,0.36,12914
+Female,Divorced,Bachelor's Degree,Employed Part-time,Mortgage,31,65485,557,0.4,22429
+Female,Divorced,High School,Employed Full-time,Rent,43,53951,618,0.45,13368
+Female,Divorced,PhD,Employed Part-time,Own,33,49086,686,0.36,11565
+Female,Married,PhD,Employed Part-time,Rent,46,55594,818,0.49,10467
+Male,Widowed,High School,Unemployed,Rent,47,58488,537,0.5,13121
+Male,Married,Master's Degree,Self-employed,Rent,48,56506,533,0.18,20338
+Male,Widowed,Master's Degree,Unemployed,Mortgage,31,40040,603,0.27,14416
+Non-binary,Divorced,Master's Degree,Employed Full-time,Rent,32,53448,721,0.25,16056
+Male,Widowed,PhD,Employed Full-time,Mortgage,33,43741,651,0.29,13445
+Male,Single,PhD,Self-employed,Mortgage,51,48203,683,0.31,5720
+Male,Divorced,Master's Degree,Self-employed,Rent,27,48580,808,0.38,15929
+Male,Divorced,High School,Employed Full-time,Own,35,48125,673,0.46,14189
+Female,Single,PhD,Employed Full-time,Own,31,40928,641,0.41,5361
+Female,Single,High School,Self-employed,Own,27,43512,712,0.44,2432
+Female,Single,Master's Degree,Self-employed,Own,45,53518,620,0.36,8392
+Non-binary,Married,Bachelor's Degree,Employed Part-time,Mortgage,41,64646,569,0.55,12615
+Male,Married,PhD,Unemployed,Rent,60,49172,586,0.44,10837
+Female,Widowed,Bachelor's Degree,Self-employed,Rent,38,35458,699,0.33,11965
+Male,Married,PhD,Employed Part-time,Own,13,68165,517,0.5,5119
+Male,Divorced,High School,Self-employed,Rent,21,53546,667,0.36,865
+Male,Married,High School,Self-employed,Own,44,61839,590,0.23,9351
+Male,Divorced,Master's Degree,Employed Full-time,Own,31,56878,729,0.41,15181
+Female,Married,Master's Degree,Self-employed,Rent,33,51238,667,0.31,13821
+Female,Single,Bachelor's Degree,Unemployed,Rent,29,51817,904,0.61,2320
+Female,Divorced,High School,Employed Full-time,Own,35,53019,654,0.41,16862
+Non-binary,Divorced,High School,Self-employed,Own,41,53503,670,0.39,7768
+Non-binary,Married,PhD,Employed Part-time,Own,40,54524,562,0.4,10947
+Female,Married,High School,Unemployed,Rent,39,40343,619,0.49,17611
+Non-binary,Divorced,Master's Degree,Employed Part-time,Rent,22,53987,750,0.2,1684
+Male,Widowed,Bachelor's Degree,Self-employed,Mortgage,45,48822,671,0.57,19535
+Male,Divorced,Bachelor's Degree,Unemployed,Own,34,56985,635,0.49,11228
+Male,Widowed,High School,Self-employed,Rent,17,56714,444,0.35,10534
+Non-binary,Widowed,Bachelor's Degree,Employed Part-time,Rent,42,55421,582,0.39,13209
+Female,Married,PhD,Employed Part-time,Rent,12,56311,631,0.48,11518
+Non-binary,Married,PhD,Self-employed,Mortgage,44,73494,487,0.33,13584
+Female,Single,Master's Degree,Unemployed,Own,46,47100,494,0.34,10141
+Male,Divorced,PhD,Self-employed,Rent,35,49499,630,0.47,16475
+Non-binary,Single,PhD,Unemployed,Rent,43,46331,582,0.33,9510
+Non-binary,Divorced,Bachelor's Degree,Unemployed,Own,38,47274,624,0.4,8532
+Non-binary,Widowed,Bachelor's Degree,Unemployed,Rent,57,47214,519,0.39,9281
+Male,Married,PhD,Employed Part-time,Own,53,39341,429,0.23,6024
+Female,Married,Bachelor's Degree,Employed Full-time,Own,39,60095,510,0.22,15818
+Non-binary,Married,High School,Employed Full-time,Own,43,31901,537,0.31,2223
+Male,Divorced,Bachelor's Degree,Self-employed,Mortgage,42,60666,519,0.36,9107
+Male,Married,Master's Degree,Employed Full-time,Mortgage,25,24051,816,0.49,10537
+Non-binary,Divorced,Bachelor's Degree,Self-employed,Mortgage,45,44048,548,0.44,8941
+Non-binary,Single,PhD,Self-employed,Mortgage,44,40941,684,0.31,16982
+Female,Divorced,Master's Degree,Employed Full-time,Mortgage,54,46452,837,0.44,4760
+Male,Single,Bachelor's Degree,Unemployed,Own,53,46657,559,0.49,3679
+Female,Divorced,PhD,Employed Part-time,Own,56,56554,755,0.16,13021
+Male,Widowed,High School,Unemployed,Mortgage,50,61513,606,0.52,8151
+Female,Widowed,PhD,Employed Full-time,Own,41,53785,634,0.23,6867
+Female,Divorced,Bachelor's Degree,Employed Full-time,Mortgage,42,52710,459,0.44,8794
+Non-binary,Married,Master's Degree,Unemployed,Mortgage,27,42299,597,0.64,5761
+Female,Divorced,Bachelor's Degree,Employed Part-time,Own,43,40914,620,0.31,2968
+Male,Widowed,High School,Self-employed,Rent,21,54917,444,0.41,2365
+Female,Widowed,Master's Degree,Employed Part-time,Own,42,52392,509,0.56,11087
+Non-binary,Widowed,Master's Degree,Self-employed,Rent,21,56355,689,0.3,13753
+Female,Divorced,Master's Degree,Unemployed,Mortgage,47,39428,661,0.56,12123
+Male,Single,Master's Degree,Self-employed,Mortgage,22,53386,587,0.49,15294
+Male,Married,PhD,Self-employed,Rent,20,43972,604,0.35,14039
+Non-binary,Widowed,Bachelor's Degree,Unemployed,Rent,29,53092,824,0.39,7647
+Male,Married,PhD,Employed Full-time,Rent,51,38030,775,0.36,6106
+Female,Widowed,Bachelor's Degree,Self-employed,Own,32,57210,693,0.26,7930
+Non-binary,Divorced,Master's Degree,Employed Part-time,Rent,32,36386,750,0.55,10874
+Non-binary,Married,Master's Degree,Employed Full-time,Own,43,58219,660,0.35,9945
+Non-binary,Widowed,PhD,Unemployed,Own,30,45661,708,0.42,10409
+Non-binary,Widowed,PhD,Employed Part-time,Mortgage,52,56606,655,0.52,10332
+Female,Single,Master's Degree,Employed Full-time,Rent,39,43446,632,0.37,3220
+Non-binary,Widowed,High School,Employed Part-time,Mortgage,29,55918,560,0.25,12536
+Female,Married,PhD,Self-employed,Own,26,74631,489,0.34,8232
+Male,Divorced,PhD,Unemployed,Mortgage,32,54151,567,0.39,311
+Non-binary,Divorced,High School,Unemployed,Own,37,35674,642,0.58,15879
+Female,Single,Master's Degree,Employed Part-time,Own,40,49725,601,0.16,10593
+Male,Single,High School,Unemployed,Mortgage,44,31110,535,0.31,16471
+Non-binary,Widowed,PhD,Employed Full-time,Rent,50,55768,704,0.32,12081
+Female,Married,High School,Employed Full-time,Rent,12,43583,686,0.49,14074
+Female,Divorced,PhD,Employed Part-time,Mortgage,27,68460,641,0.42,9721
+Male,Widowed,High School,Self-employed,Mortgage,38,75341,620,0.44,8907
+Male,Divorced,PhD,Self-employed,Rent,43,54999,622,0.51,3810
+Non-binary,Divorced,High School,Unemployed,Rent,26,54461,641,0.16,15018
+Male,Divorced,Bachelor's Degree,Employed Part-time,Rent,40,25613,529,0.45,5900
+Male,Widowed,Master's Degree,Unemployed,Mortgage,30,35043,518,0.41,17067
+Male,Divorced,PhD,Employed Full-time,Rent,40,38908,634,0.4,6803
+Non-binary,Single,High School,Self-employed,Own,39,54494,679,0.34,7559
+Non-binary,Married,Bachelor's Degree,Self-employed,Rent,35,56451,713,0.41,9321
+Non-binary,Married,PhD,Unemployed,Mortgage,51,55860,653,0.35,6368
+Female,Widowed,High School,Self-employed,Mortgage,30,47952,668,0.41,6334
+Male,Divorced,Master's Degree,Self-employed,Mortgage,36,59355,619,0.44,5783
+Female,Divorced,PhD,Self-employed,Rent,23,43992,452,0.37,16209
+Female,Widowed,High School,Employed Full-time,Rent,37,48646,657,0.43,14586
+Non-binary,Single,PhD,Unemployed,Own,30,69881,773,0.45,9450
+Male,Divorced,Master's Degree,Employed Full-time,Mortgage,50,53028,723,0.38,10987
+Female,Divorced,Bachelor's Degree,Unemployed,Own,37,44631,603,0.34,7476
+Male,Married,Bachelor's Degree,Unemployed,Rent,40,40577,582,0.31,6849
+Female,Single,PhD,Employed Full-time,Mortgage,45,47845,813,0.5,11014
+Female,Married,Bachelor's Degree,Employed Full-time,Rent,39,55562,761,0.33,2915
+Female,Married,High School,Employed Part-time,Rent,30,44963,769,0.48,11531
+Male,Married,Master's Degree,Self-employed,Mortgage,43,59860,675,0.34,15494
+Non-binary,Divorced,PhD,Unemployed,Mortgage,33,48249,497,0.29,20791
+Male,Divorced,High School,Employed Part-time,Own,32,43066,728,0.37,13675
+Non-binary,Single,PhD,Self-employed,Mortgage,48,48792,515,0.29,18031
+Non-binary,Divorced,High School,Employed Part-time,Mortgage,35,31771,678,0.37,13783
+Female,Single,Master's Degree,Self-employed,Rent,48,41676,838,0.47,12283
+Non-binary,Divorced,Bachelor's Degree,Unemployed,Own,57,51048,628,0.43,14035
+Female,Divorced,Master's Degree,Employed Part-time,Rent,26,56565,639,0.4,3324
+Female,Married,High School,Unemployed,Rent,42,44877,674,0.42,10026
+Male,Widowed,PhD,Employed Full-time,Rent,48,43889,694,0.41,3570
+Non-binary,Married,Master's Degree,Self-employed,Mortgage,40,50618,737,0.34,13772
+Non-binary,Single,PhD,Employed Full-time,Own,34,76325,588,0.51,3473
+Male,Widowed,Bachelor's Degree,Self-employed,Own,52,57684,461,0.48,7944
+Male,Widowed,Bachelor's Degree,Unemployed,Mortgage,34,36343,544,0.39,12765
+Male,Widowed,Master's Degree,Employed Part-time,Rent,51,53529,651,0.43,5179
+Male,Single,Master's Degree,Self-employed,Own,29,23577,754,0.29,10952
+Male,Divorced,High School,Employed Full-time,Own,60,38216,631,0.2,12838
+Female,Single,PhD,Employed Full-time,Rent,56,36369,550,0.28,3716
+Non-binary,Married,PhD,Unemployed,Mortgage,54,36743,629,0.25,12400
+Female,Single,PhD,Employed Full-time,Rent,55,55464,599,0.36,10168
+Non-binary,Single,Master's Degree,Self-employed,Rent,41,56393,733,0.2,16160
+Non-binary,Widowed,Master's Degree,Unemployed,Rent,32,57458,625,0.55,12339
+Female,Widowed,PhD,Unemployed,Own,48,45897,764,0.25,19482
+Non-binary,Married,Bachelor's Degree,Employed Full-time,Rent,25,46974,815,0.17,7460
+Non-binary,Single,High School,Employed Full-time,Own,45,55202,582,0.42,15014
+Non-binary,Widowed,Bachelor's Degree,Employed Part-time,Rent,42,48206,738,0.31,13994
+Non-binary,Widowed,Bachelor's Degree,Employed Full-time,Rent,60,48988,750,0.34,8492
+Male,Single,High School,Self-employed,Rent,41,42338,692,0.51,9164
+Female,Divorced,Master's Degree,Self-employed,Own,30,52939,566,0.46,8447
+Female,Single,Bachelor's Degree,Unemployed,Mortgage,39,38402,638,0.51,3558
+Non-binary,Married,PhD,Self-employed,Mortgage,32,49476,745,0.36,8446
+Female,Divorced,Bachelor's Degree,Self-employed,Own,43,41608,677,0.35,8042
+Female,Widowed,PhD,Unemployed,Rent,38,54084,565,0.41,9190
+Male,Single,PhD,Employed Full-time,Own,39,51899,551,0.14,14033
+Non-binary,Widowed,Master's Degree,Employed Part-time,Rent,31,51632,550,0.5,5986
+Female,Widowed,Bachelor's Degree,Unemployed,Mortgage,55,54192,470,0.46,12940
+Male,Widowed,PhD,Employed Full-time,Own,31,70592,623,0.26,16970
+Non-binary,Married,High School,Unemployed,Mortgage,39,62036,593,0.28,1684
+Female,Single,Bachelor's Degree,Self-employed,Mortgage,57,32398,761,0.48,4431
+Non-binary,Married,PhD,Self-employed,Own,57,52866,661,0.44,13180
+Male,Widowed,High School,Unemployed,Rent,49,45492,606,0.37,8219
+Non-binary,Widowed,High School,Employed Part-time,Own,46,56457,631,0.3,13282
+Non-binary,Widowed,High School,Unemployed,Mortgage,40,59073,629,0.28,10292
+Male,Divorced,Master's Degree,Self-employed,Rent,40,45179,671,0.44,8554
+Male,Divorced,High School,Unemployed,Mortgage,38,44018,708,0.34,15328
+Non-binary,Single,High School,Self-employed,Rent,43,38688,736,0.63,18030
+Female,Single,PhD,Employed Full-time,Own,29,59496,664,0.38,11373
+Non-binary,Single,Bachelor's Degree,Unemployed,Rent,40,42810,622,0.45,9620
+Male,Divorced,High School,Employed Part-time,Own,39,51275,632,0.27,4994
+Non-binary,Divorced,Bachelor's Degree,Unemployed,Rent,39,27548,640,0.54,15692
+Female,Divorced,Bachelor's Degree,Employed Part-time,Mortgage,48,48541,696,0.55,15228
+Female,Widowed,High School,Self-employed,Rent,56,51241,463,0.16,6937
+Female,Widowed,High School,Unemployed,Own,36,71309,728,0.46,3299
+Non-binary,Married,Bachelor's Degree,Employed Part-time,Rent,28,50828,505,0.28,14577
+Female,Married,PhD,Employed Part-time,Mortgage,34,41768,630,0.26,7120
+Female,Widowed,High School,Employed Part-time,Own,22,45563,501,0.51,11396
+Non-binary,Married,PhD,Unemployed,Mortgage,44,48240,472,0.26,294
+Non-binary,Widowed,PhD,Self-employed,Mortgage,40,67826,646,0.54,13495
+Male,Divorced,PhD,Employed Full-time,Mortgage,45,60820,671,0.54,10673
+Female,Single,PhD,Self-employed,Mortgage,32,49243,693,0.38,5219
+Male,Single,High School,Employed Full-time,Own,42,64221,504,0.46,10565
+Female,Single,High School,Unemployed,Own,21,51509,785,0.41,7416
+Non-binary,Married,High School,Self-employed,Mortgage,37,71255,764,0.51,10271
+Male,Widowed,PhD,Self-employed,Rent,52,45923,699,0.4,7666
+Male,Widowed,Master's Degree,Self-employed,Own,48,49544,707,0.41,2990
+Non-binary,Single,PhD,Employed Full-time,Own,33,33237,589,0.53,9868
+Female,Widowed,Master's Degree,Unemployed,Own,45,39508,589,0.36,10026
+Male,Married,PhD,Employed Full-time,Rent,40,48494,520,0.37,12261
+Female,Divorced,High School,Employed Full-time,Rent,38,41429,594,0.37,14561
+Male,Single,High School,Employed Full-time,Mortgage,43,38565,713,0.53,8279
+Male,Divorced,PhD,Unemployed,Rent,64,56319,484,0.29,19835
+Non-binary,Divorced,Bachelor's Degree,Self-employed,Rent,41,61537,836,0.4,16213
+Non-binary,Married,High School,Employed Part-time,Rent,39,46356,612,0.21,12587
+Male,Widowed,Master's Degree,Employed Full-time,Own,43,47823,412,0.5,10285
+Male,Married,PhD,Employed Full-time,Rent,37,46496,628,0.43,12011
+Non-binary,Single,PhD,Employed Full-time,Own,66,43166,731,0.46,12075
+Male,Single,PhD,Unemployed,Rent,46,54374,769,0.3,10091
+Non-binary,Widowed,High School,Self-employed,Own,30,61638,566,0.17,11937
+Non-binary,Divorced,Master's Degree,Employed Part-time,Rent,35,47982,884,0.54,10739
+Female,Married,High School,Employed Full-time,Own,48,45261,665,0.38,10250
+Female,Single,High School,Employed Part-time,Own,44,49007,654,0.46,10272
+Female,Married,PhD,Employed Part-time,Mortgage,38,68382,654,0.42,11430
+Non-binary,Widowed,Master's Degree,Unemployed,Mortgage,40,45687,712,0.4,7390
+Non-binary,Married,PhD,Employed Full-time,Mortgage,32,49916,687,0.53,2210
+Female,Single,Bachelor's Degree,Employed Part-time,Own,30,39944,459,0.36,24380
+Female,Divorced,Bachelor's Degree,Employed Part-time,Mortgage,47,57080,728,0.55,17416
+Female,Widowed,PhD,Employed Part-time,Rent,34,54781,624,0.51,7204
+Female,Married,Master's Degree,Unemployed,Mortgage,39,40203,470,0.3,11821
+Non-binary,Divorced,Master's Degree,Employed Part-time,Mortgage,57,49840,752,0.49,3969
+Non-binary,Single,PhD,Self-employed,Mortgage,44,49105,860,0.18,16541
+Non-binary,Married,Bachelor's Degree,Employed Full-time,Own,55,73222,673,0.52,6840
+Female,Widowed,PhD,Unemployed,Rent,31,52394,779,0.34,17075
+Male,Married,PhD,Unemployed,Mortgage,29,50160,741,0.37,16243
+Non-binary,Widowed,Bachelor's Degree,Employed Full-time,Mortgage,34,29439,807,0.54,10562
+Non-binary,Single,Bachelor's Degree,Employed Part-time,Own,25,36683,701,0.57,1608
+Female,Single,Master's Degree,Unemployed,Own,53,52694,405,0.35,11737
+Female,Divorced,Master's Degree,Unemployed,Rent,25,40164,608,0.27,10033
+Female,Single,PhD,Self-employed,Rent,44,67958,558,0.42,14716
+Male,Widowed,Bachelor's Degree,Self-employed,Mortgage,48,47276,749,0.25,10159
+Male,Widowed,Master's Degree,Employed Full-time,Rent,41,49378,580,0.55,7692
+Non-binary,Single,Master's Degree,Employed Part-time,Own,38,59717,544,0.44,9362
+Female,Single,Master's Degree,Employed Part-time,Rent,54,66115,804,0.53,12415
+Male,Divorced,High School,Employed Full-time,Rent,34,58167,805,0.32,20512
+Male,Widowed,High School,Unemployed,Mortgage,34,55593,787,0.57,6131
+Male,Married,High School,Employed Part-time,Own,37,64007,604,0.32,10342
+Non-binary,Divorced,PhD,Employed Part-time,Rent,36,45570,634,0.37,2359
+Non-binary,Widowed,Bachelor's Degree,Employed Part-time,Own,23,43888,606,0.33,10235
+Male,Married,High School,Employed Part-time,Mortgage,47,58498,661,0.37,14104
+Female,Single,Master's Degree,Self-employed,Rent,29,53772,594,0.51,6313
+Male,Single,High School,Employed Full-time,Mortgage,34,66152,846,0.41,6814
+Male,Single,High School,Unemployed,Own,31,52282,587,0.31,10936
+Non-binary,Widowed,High School,Self-employed,Rent,32,49893,777,0.33,5193
+Male,Single,PhD,Employed Part-time,Rent,19,56032,675,0.39,15463
+Female,Single,Master's Degree,Unemployed,Mortgage,41,45441,507,0.22,16563
+Male,Married,Master's Degree,Unemployed,Own,31,49914,736,0.59,7192
+Female,Married,High School,Employed Part-time,Own,31,52891,810,0.59,9662
+Female,Widowed,Master's Degree,Unemployed,Mortgage,32,52470,515,0.29,20794
+Female,Married,PhD,Unemployed,Mortgage,41,54354,615,0.4,12525
+Female,Widowed,PhD,Unemployed,Own,58,49384,728,0.47,13162
+Male,Married,PhD,Unemployed,Rent,35,60275,590,0.31,4166
+Female,Single,Master's Degree,Unemployed,Rent,35,38233,625,0.45,321
+Female,Divorced,Bachelor's Degree,Employed Part-time,Rent,45,41322,665,0.38,11362
+Male,Single,Master's Degree,Unemployed,Mortgage,37,51683,707,0.44,6750
+Female,Single,PhD,Employed Full-time,Rent,43,51052,572,0.33,10223
+Female,Divorced,PhD,Employed Full-time,Mortgage,32,57011,675,0.46,8754
+Male,Widowed,Bachelor's Degree,Employed Part-time,Own,49,58734,582,0.49,17422
+Female,Married,High School,Employed Full-time,Own,21,59281,563,0.58,6647
+Non-binary,Divorced,Master's Degree,Employed Part-time,Own,44,54148,523,0.37,14619
+Male,Widowed,Bachelor's Degree,Self-employed,Mortgage,41,49152,558,0.29,5886
+Male,Divorced,Bachelor's Degree,Unemployed,Mortgage,40,49235,715,0.39,14167
+Female,Divorced,Bachelor's Degree,Employed Part-time,Rent,33,52896,625,0.52,11520
+Non-binary,Married,Master's Degree,Unemployed,Rent,28,53183,654,0.3,10011
+Non-binary,Married,High School,Unemployed,Own,18,46629,639,0.48,10923
+Non-binary,Widowed,High School,Employed Full-time,Own,67,63560,652,0.37,426
+Non-binary,Widowed,Bachelor's Degree,Unemployed,Rent,39,54185,679,0.45,8772
+Non-binary,Widowed,High School,Self-employed,Rent,32,45233,743,0.44,11650
+Non-binary,Single,PhD,Self-employed,Rent,42,54088,705,0.25,13384
+Female,Married,High School,Employed Full-time,Own,61,61847,586,0.22,11265
+Non-binary,Divorced,High School,Employed Part-time,Rent,50,40238,734,0.37,13093
+Female,Single,PhD,Self-employed,Rent,50,46142,459,0.29,1987
+Non-binary,Single,Master's Degree,Employed Full-time,Mortgage,26,51651,724,0.35,3513
+Non-binary,Divorced,Bachelor's Degree,Self-employed,Rent,39,52629,724,0.37,6914
+Female,Single,PhD,Employed Part-time,Rent,27,40421,702,0.52,5777
+Male,Divorced,PhD,Employed Part-time,Own,47,52374,728,0.29,10661
+Non-binary,Divorced,Master's Degree,Unemployed,Own,51,57461,679,0.47,6835
+Male,Widowed,PhD,Self-employed,Rent,45,49508,703,0.43,7644
+Non-binary,Single,Bachelor's Degree,Employed Part-time,Own,45,41126,598,0.44,6517
+Non-binary,Married,PhD,Employed Part-time,Rent,33,55788,701,0.42,4779
+Female,Divorced,High School,Employed Full-time,Rent,53,47066,725,0.38,320
+Male,Widowed,Master's Degree,Self-employed,Rent,12,33358,572,0.41,8412
+Female,Single,PhD,Employed Full-time,Own,30,75270,543,0.48,2123
+Male,Divorced,Bachelor's Degree,Employed Part-time,Mortgage,17,59617,541,0.4,14236
+Female,Divorced,High School,Employed Part-time,Rent,45,61428,563,0.47,9547
+Male,Widowed,PhD,Employed Part-time,Rent,45,74006,596,0.48,10263
+Male,Married,Master's Degree,Employed Full-time,Rent,18,45975,733,0.43,11924
+Female,Single,Master's Degree,Employed Part-time,Own,48,42324,906,0.28,2946
+Male,Married,High School,Employed Full-time,Own,30,32293,616,0.31,9277
+Female,Married,High School,Employed Full-time,Rent,47,44176,672,0.41,9043
+Female,Single,Master's Degree,Employed Full-time,Own,25,40660,655,0.45,14960
+Female,Divorced,High School,Self-employed,Mortgage,37,31600,598,0.51,15862
+Non-binary,Divorced,Bachelor's Degree,Self-employed,Rent,47,43596,610,0.47,8674
+Female,Single,PhD,Employed Part-time,Own,38,52211,731,0.43,12264
+Male,Divorced,Bachelor's Degree,Employed Full-time,Own,42,30185,488,0.23,5723
+Female,Divorced,High School,Employed Full-time,Rent,30,37449,634,0.44,9838
+Male,Single,High School,Employed Full-time,Rent,32,46533,611,0.25,14080
+Non-binary,Widowed,PhD,Employed Full-time,Own,52,51534,543,0.33,11073
+Non-binary,Widowed,Bachelor's Degree,Self-employed,Mortgage,52,50316,668,0.43,11676
+Female,Widowed,High School,Unemployed,Own,45,56249,655,0.29,6926
+Female,Single,Master's Degree,Self-employed,Rent,30,43952,610,0.5,3837
+Female,Single,PhD,Unemployed,Own,34,54043,842,0.56,16508
+Male,Widowed,Master's Degree,Unemployed,Rent,36,57478,583,0.43,5542
+Female,Widowed,Bachelor's Degree,Employed Full-time,Own,46,49926,757,0.21,11589
+Female,Widowed,Bachelor's Degree,Unemployed,Mortgage,41,53017,611,0.44,10557
+Non-binary,Divorced,High School,Employed Full-time,Mortgage,57,31410,735,0.48,5385
+Male,Married,PhD,Employed Full-time,Mortgage,37,41412,693,0.18,10368
+Male,Divorced,Bachelor's Degree,Self-employed,Own,53,42686,520,0.44,4576
+Female,Married,Bachelor's Degree,Self-employed,Rent,37,37481,428,0.38,9511
+Non-binary,Divorced,Bachelor's Degree,Employed Part-time,Mortgage,44,49183,683,0.41,13245
+Female,Divorced,PhD,Self-employed,Mortgage,38,64058,628,0.55,15088
+Male,Married,Master's Degree,Employed Full-time,Own,38,52367,302,0.25,11599
+Male,Married,PhD,Employed Full-time,Own,43,56931,828,0.52,13119
+Non-binary,Married,Bachelor's Degree,Employed Full-time,Own,42,49029,617,0.21,20420
+Non-binary,Single,Master's Degree,Unemployed,Rent,55,54317,642,0.47,3284
+Male,Married,Bachelor's Degree,Employed Part-time,Mortgage,35,39072,639,0.43,11127
+Male,Single,Master's Degree,Employed Full-time,Mortgage,41,65532,848,0.28,19849
+Non-binary,Married,High School,Employed Full-time,Rent,29,54122,708,0.66,1111
+Female,Divorced,Bachelor's Degree,Self-employed,Mortgage,40,55550,649,0.37,10105
+Non-binary,Widowed,PhD,Self-employed,Mortgage,42,59535,666,0.37,8973
+Female,Widowed,Bachelor's Degree,Employed Full-time,Own,29,40737,761,0.42,17891
+Male,Married,PhD,Employed Part-time,Mortgage,69,46465,613,0.26,6826
+Non-binary,Widowed,Bachelor's Degree,Unemployed,Mortgage,18,47081,670,0.26,5571
+Non-binary,Married,PhD,Unemployed,Rent,45,53040,627,0.35,11600
+Non-binary,Single,Bachelor's Degree,Employed Full-time,Own,29,40303,710,0.51,15916
+Female,Married,High School,Unemployed,Own,28,45272,670,0.39,13042
+Female,Divorced,PhD,Employed Full-time,Rent,31,58416,552,0.31,1562
+Non-binary,Divorced,Master's Degree,Unemployed,Own,62,37181,563,0.48,13314
+Non-binary,Widowed,PhD,Employed Full-time,Own,32,47089,716,0.36,14142
+Non-binary,Single,PhD,Employed Part-time,Own,43,54755,661,0.35,10421
+Non-binary,Widowed,Master's Degree,Self-employed,Own,37,60180,610,0.6,7166
+Non-binary,Widowed,High School,Unemployed,Mortgage,58,56496,652,0.38,5347
+Female,Divorced,Bachelor's Degree,Employed Full-time,Rent,36,59835,675,0.33,12696
+Male,Widowed,PhD,Unemployed,Rent,19,80436,632,0.29,1158
+Male,Divorced,Bachelor's Degree,Employed Full-time,Own,47,56013,603,0.33,14408
+Male,Divorced,High School,Unemployed,Mortgage,48,50434,599,0.4,23041
+Male,Single,PhD,Employed Full-time,Own,40,63940,740,0.49,7255
+Male,Widowed,PhD,Employed Full-time,Own,40,43566,655,0.45,10
+Male,Divorced,Bachelor's Degree,Self-employed,Own,35,49101,685,0.37,5833
+Female,Widowed,PhD,Unemployed,Own,39,61682,641,0.43,661
+Female,Married,Bachelor's Degree,Employed Full-time,Mortgage,40,54695,699,0.26,11718
+Male,Widowed,High School,Unemployed,Rent,37,50285,555,0.31,13360
+Male,Widowed,Master's Degree,Unemployed,Rent,48,27510,646,0.2,8327
+Female,Single,PhD,Employed Part-time,Rent,28,52036,554,0.44,13110
+Female,Married,High School,Self-employed,Rent,45,47329,598,0.44,1123
+Non-binary,Divorced,High School,Unemployed,Rent,42,44886,669,0.46,2477
+Male,Divorced,Bachelor's Degree,Unemployed,Mortgage,44,55257,551,0.36,16622
+Male,Single,PhD,Self-employed,Own,44,44481,639,0.43,6546
+Male,Single,PhD,Unemployed,Rent,43,56682,703,0.35,13459
+Non-binary,Widowed,PhD,Employed Full-time,Rent,35,38935,654,0.31,9363
+Non-binary,Single,PhD,Employed Full-time,Own,37,27794,574,0.31,16161
+Non-binary,Married,High School,Employed Part-time,Own,43,49289,880,0.33,14897
+Female,Single,Bachelor's Degree,Employed Part-time,Mortgage,63,48358,649,0.23,1474
+Male,Single,PhD,Employed Part-time,Rent,42,57076,631,0.35,11759
+Female,Single,PhD,Employed Full-time,Mortgage,45,43492,696,0.42,3592
+Non-binary,Married,Master's Degree,Employed Full-time,Mortgage,47,45656,563,0.47,10007
+Male,Divorced,PhD,Self-employed,Own,39,41939,501,0.39,9533
+Female,Single,Bachelor's Degree,Employed Part-time,Rent,40,45373,685,0.38,9539
+Female,Single,Master's Degree,Unemployed,Rent,46,41347,716,0.29,16885
+Female,Married,Master's Degree,Unemployed,Mortgage,25,44123,899,0.46,13393
+Male,Widowed,Bachelor's Degree,Employed Part-time,Mortgage,27,48347,765,0.49,14803
+Female,Widowed,Master's Degree,Self-employed,Own,37,62015,640,0.58,4657
+Female,Single,High School,Employed Part-time,Own,40,54383,410,0.56,11016
+Female,Widowed,High School,Employed Full-time,Rent,43,48318,539,0.29,6636
+Non-binary,Widowed,PhD,Self-employed,Own,31,34179,644,0.54,13852
+Non-binary,Married,Bachelor's Degree,Unemployed,Own,32,42372,582,0.49,3304
+Female,Divorced,Bachelor's Degree,Self-employed,Own,43,45296,740,0.34,13320
+Non-binary,Widowed,Master's Degree,Employed Part-time,Mortgage,33,52238,643,0.44,3073
+Male,Widowed,Bachelor's Degree,Employed Part-time,Rent,48,52348,700,0.33,13288
+Male,Widowed,Master's Degree,Self-employed,Own,44,66249,699,0.48,8050
+Female,Married,Bachelor's Degree,Unemployed,Rent,27,44318,816,0.53,12569
+Male,Divorced,Bachelor's Degree,Unemployed,Mortgage,55,49009,745,0.42,9305
+Male,Single,Master's Degree,Employed Full-time,Mortgage,45,53571,726,0.45,18695
+Female,Divorced,PhD,Employed Full-time,Mortgage,20,61629,809,0.4,20024
+Male,Married,PhD,Employed Full-time,Rent,38,44272,681,0.34,17580
+Non-binary,Married,PhD,Self-employed,Rent,42,58861,663,0.52,8615
+Male,Married,Master's Degree,Unemployed,Own,38,69127,500,0.6,13442
+Male,Married,PhD,Unemployed,Own,34,44711,589,0.39,6668
+Male,Widowed,Bachelor's Degree,Employed Full-time,Rent,49,64063,627,0.35,12501
+Non-binary,Widowed,High School,Employed Part-time,Own,46,59802,687,0.37,11516
+Male,Married,High School,Employed Part-time,Own,36,37725,597,0.29,13026
+Male,Married,PhD,Employed Part-time,Mortgage,50,43034,602,0.43,10880
+Non-binary,Divorced,Bachelor's Degree,Employed Part-time,Rent,52,44205,747,0.39,5149
+Male,Single,PhD,Self-employed,Own,33,34629,660,0.31,2390
+Female,Married,Bachelor's Degree,Employed Part-time,Mortgage,43,56055,612,0.31,13449
+Non-binary,Single,PhD,Employed Full-time,Own,46,35356,737,0.51,12752
+Male,Single,Bachelor's Degree,Unemployed,Own,32,48066,788,0.26,11632
+Female,Married,High School,Self-employed,Own,42,53009,784,0.2,13378
+Male,Married,PhD,Unemployed,Rent,34,55164,789,0.34,4858
+Non-binary,Widowed,High School,Employed Full-time,Rent,34,44237,624,0.39,17227
+Female,Widowed,Master's Degree,Employed Part-time,Mortgage,50,59540,746,0.31,6974
+Male,Single,Bachelor's Degree,Self-employed,Mortgage,32,52446,628,0.43,10750
+Non-binary,Married,Master's Degree,Employed Part-time,Rent,44,57320,640,0.64,7354
+Male,Widowed,Master's Degree,Employed Full-time,Own,23,51724,844,0.32,17991
+Non-binary,Married,PhD,Employed Part-time,Mortgage,32,44616,547,0.48,5269
+Male,Widowed,Bachelor's Degree,Employed Full-time,Mortgage,34,44743,677,0.27,7849
